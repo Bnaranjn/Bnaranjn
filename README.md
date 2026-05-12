@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Naranjargal 👋✨
+Software Engineering student at Sungkyunkwan University interested in software engineering, AI, backend systems, and mobile development.
 
-<!--
-**Bnaranjn/Bnaranjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies 🌱
+- Java
+- C++
+- C
+- Kotlin
+- JavaScript
+- HTML/CSS
+- Git/GitHub
 
-Here are some ideas to get you started:
+## Current Focus 🔭
+- Data Structures & Algorithms
+- Android Development
+- Backend Development
+- Object-Oriented Programming
+- Multiplayer Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### QuizRush Multiplayer Game
+Java multiplayer quiz game using sockets and multithreading.
+
+### Wordle Android App
+Mobile Wordle-inspired application built with Kotlin in Android Studio.
+
+### Tetris in C
+Classic Tetris game implementing collision detection and game loop logic.
+
+## Contact 📫
+- LinkedIn: linkedin.com/in/naranjargalbold
+- Email: kthnaranjn@gmail.com
