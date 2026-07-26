@@ -18,6 +18,12 @@ Software Engineering student at Sungkyunkwan University interested in software e
 - Multiplayer Systems
 
 ## Featured Projects
+### E-Commerce Website
+E-Commerce full-stack website.
+
+### Social Media Website
+Full-stack CRUD website.
+
 ### QuizRush Multiplayer Game
 Java multiplayer quiz game using sockets and multithreading.
 
