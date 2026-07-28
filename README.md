@@ -34,5 +34,4 @@ Mobile Wordle-inspired application built with Kotlin in Android Studio.
 Classic Tetris game implementing collision detection and game loop logic.
 
 ## Contact 📫
-- LinkedIn: linkedin.com/in/naranjargalbold
 - Email: kthnaranjn@gmail.com
